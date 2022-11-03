@@ -1,0 +1,10 @@
+@mixin light {
+    font-weight: 300;
+}
+
+@mixin list {
+    text-align: start;
+    list-style-type: none;
+    margin: 0;
+    padding: 15px;
+}
